@@ -3,7 +3,7 @@
 ## Create test user
 
 ```shell
-php artisan bd:seed --class=TestUserSeeder
+php artisan db:seed --class=TestUserSeeder
 ```
 
 ## User creds
